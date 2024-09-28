@@ -281,7 +281,7 @@ export default function DrawingExample() {
         ref={canvasRef}
         css={canvasStyles}
         width="800"
-        height="400"
+        height="401"
         style={{ color: swatchColorMap[selectedColor] }}
       />
     </div>
